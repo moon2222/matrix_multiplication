@@ -1,0 +1,12 @@
+this is 1st version of my project
+on doing A(1000X1000) ,B(1000X1000) multiplication it gives 
+these five  results (run 5 times )
+time taken by multiplication
+684.68ns
+681ns
+691ns
+670ns
+680ns
+average= 680ns
+22.67% of mkl multiplication program
+
